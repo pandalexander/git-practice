@@ -8,4 +8,8 @@ How can you amend your last commit?
 
 What are some different ways to rewrite history?
 
+```
+Oh yeah, I am the zesty new sentence for the zesty new feature!
+```
+
 - There are several ways to rewrite git history. The two that come to mind are git rebase and git reset. there are several differences between how rebase and reset work, and it's important that you confirm with your team before changing any git changes that other people are working from. Also, make sure that the commits aren't destructive to your working directory unless you are sure that is what you want to do. It's not always the best idea to completely erase your data, but it can be the right call in some situations.
